@@ -1,0 +1,296 @@
+[2024-08-29 15:25:38.999084] Execution of data insertion in ICTO takes  0.990 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 15:40:06.451364] Execution of data insertion in ICTO takes  1.929 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 15:42:23.190236] Execution of data insertion in ICTO takes  3.740 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 15:55:31.414363] Execution of data insertion in ICTO takes  3.229 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 15:58:10.280813] Execution of data insertion in ICTO takes  0.603 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 15:58:10.280813] Execution of data insertion in CED takes  242.588 seconds. Total of list updated: 16 list/s
+
+[2024-08-29 15:58:10.280813] Execution of data insertion in ICTO takes  0.590 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:04:22.672478] Execution of data insertion in ICTO takes  0.623 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:04:22.672478] Execution of data insertion in CED takes  12.860 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:04:22.672478] Execution of data insertion in ICTO takes  0.811 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ICTO takes  2.524 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CED takes  75.984 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ADMIN BUILDING 2 takes  80.378 seconds. Total of list updated: 25 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ADMIN BUILDING 1 takes  81.616 seconds. Total of list updated: 23 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CAS takes  85.889 seconds. Total of list updated: 29 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CCJ takes  103.380 seconds. Total of list updated: 55 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CEIT takes  114.050 seconds. Total of list updated: 77 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in IH1 takes  126.371 seconds. Total of list updated: 108 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in LIBRARY takes  133.636 seconds. Total of list updated: 124 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in IH2 takes  99.059 seconds. Total of list updated: 308 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ICTO takes  1.571 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CED takes  72.510 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ADMIN BUILDING 1 takes  80.968 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ADMIN BUILDING 2 takes  85.399 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CAS takes  85.731 seconds. Total of list updated: 2 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CCJ takes  101.510 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CEIT takes  114.198 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in IH1 takes  127.797 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in LIBRARY takes  129.144 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in IH2 takes  90.485 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ICTO takes  1.714 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CED takes  68.934 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ADMIN BUILDING 2 takes  70.819 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ADMIN BUILDING 1 takes  69.715 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CAS takes  73.544 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CCJ takes  88.318 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CEIT takes  96.723 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in IH1 takes  110.020 seconds. Total of list updated: 3 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in LIBRARY takes  114.265 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in IH2 takes  78.732 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ICTO takes  1.460 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CED takes  80.209 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ADMIN BUILDING 2 takes  89.390 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ADMIN BUILDING 1 takes  93.096 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CAS takes  93.904 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CCJ takes  115.572 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CEIT takes  127.163 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in IH1 takes  145.008 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in LIBRARY takes  146.230 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in IH2 takes  99.829 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ICTO takes  2.257 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:48:43.568733] Execution of data insertion in ICTO takes  3.716 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:48:43.568733] Execution of data insertion in CED takes  68.231 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 16:48:43.568733] Execution of data insertion in ADMIN BUILDING 1 takes  69.895 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:48:43.568733] Execution of data insertion in ADMIN BUILDING 2 takes  73.940 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:48:43.568733] Execution of data insertion in CAS takes  79.169 seconds. Total of list updated: 3 list/s
+
+[2024-08-29 16:48:43.568733] Execution of data insertion in CCJ takes  93.482 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:48:43.568733] Execution of data insertion in CEIT takes  108.637 seconds. Total of list updated: 2 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ICTO takes  2.447 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ADMIN BUILDING 1 takes  89.714 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CED takes  92.333 seconds. Total of list updated: 2 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ADMIN BUILDING 2 takes  94.927 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CAS takes  104.011 seconds. Total of list updated: 6 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CCJ takes  114.951 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CEIT takes  130.320 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in IH1 takes  145.306 seconds. Total of list updated: 4 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in LIBRARY takes  151.459 seconds. Total of list updated: 9 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in IH2 takes  111.058 seconds. Total of list updated: 3 list/s
+
+[2024-08-29 17:20:45.786939] Execution of data insertion in ICTO takes  4.714 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ICTO takes  3.056 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CED takes  117.135 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ADMIN BUILDING 1 takes  131.997 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ADMIN BUILDING 2 takes  133.148 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CAS takes  150.824 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CCJ takes  164.027 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CEIT takes  196.844 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in IH1 takes  220.606 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in LIBRARY takes  234.760 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 17:22:29.092943] Execution of program execution takes  160.656 seconds
+[2024-08-29 17:17:15.580675] Execution of data insertion in IH2 takes  162.418 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ICTO takes  2.875 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:25:32.457633] Execution of program execution takes  40.992 seconds
+[2024-08-29 17:17:15.580675] Execution of data insertion in CED takes  121.531 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ADMIN BUILDING 1 takes  130.352 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ADMIN BUILDING 2 takes  130.658 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CAS takes  150.930 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CCJ takes  164.769 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CEIT takes  189.722 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in IH1 takes  215.977 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in LIBRARY takes  224.312 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:26:45.118264] Execution of program execution takes  260.646 seconds
+[2024-08-29 17:17:15.580675] Execution of data insertion in IH2 takes  166.090 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ICTO takes  4.314 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:31:09.143582] Execution of program execution takes  142.354 seconds
+[2024-08-29 17:17:15.580675] Execution of data insertion in ADMIN BUILDING 1 takes  136.317 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CED takes  138.150 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ADMIN BUILDING 2 takes  148.003 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:33:34.733824] Execution of program execution takes  45.708 seconds
+[2024-08-29 17:17:15.580675] Execution of data insertion in CAS takes  169.189 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CCJ takes  188.165 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CEIT takes  222.347 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 17:34:25.077456] Execution of program execution takes  53.272 seconds
+[2024-08-29 17:17:15.580675] Execution of data insertion in IH1 takes  243.905 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in LIBRARY takes  254.104 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:35:29.080080] Execution of program execution takes  83.720 seconds
+[2024-08-29 17:17:15.580675] Execution of data insertion in IH2 takes  175.521 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ICTO takes  2.861 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:38:44.530230] Execution of program execution takes  55.492 seconds
+[2024-08-29 17:39:43.515575] Execution of program execution takes  10.117 seconds
+[2024-08-29 17:40:19.358407] Execution of program execution takes  105.131 seconds
+[2024-08-29 17:44:07.373460] Execution of program execution takes  74.294 seconds
+[2024-08-29 17:45:24.024491] Execution of program execution takes  33.706 seconds
+[2024-08-29 17:46:00.114487] Execution of program execution takes  232.726 seconds
+[2024-08-29 17:52:39.728779] Execution of program execution takes  81.933 seconds
+[2024-08-29 17:54:18.566633] Execution of program execution takes  2.861 seconds
+[2024-08-29 22:40:15.536311] Execution of data insertion in ADMIN BUILDING 2 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in ADMIN BUILDING 1 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in ICTO takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in CED takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in CCJ takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in CEIT takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in IH1 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in LIBRARY takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in CAS takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in IH2 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of program execution takes  209.160 seconds
+[2024-08-29 22:44:55.140512] Execution of data insertion in ADMIN BUILDING 1 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CED takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in ICTO takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in ADMIN BUILDING 2 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CCJ takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in LIBRARY takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in IH1 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CEIT takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in IH2 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CAS takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in ADMIN BUILDING 2 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in ADMIN BUILDING 1 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in ICTO takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CCJ takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CEIT takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in IH1 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in LIBRARY takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CED takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CAS takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in IH2 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in ADMIN BUILDING 1 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in ADMIN BUILDING 2 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in ICTO takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CEIT takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CCJ takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in IH1 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in LIBRARY takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CED takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CAS takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in IH2 takes  0.000 seconds. Total of list updated: 0 list/s
+
