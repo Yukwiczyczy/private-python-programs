@@ -1,0 +1,1581 @@
+<<<<<<< Updated upstream
+Execution of data insertion takes  0.133 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  35.349 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  59.034 seconds
+ Total of list updated: 0 list/s
+Execution of program execution takes  140.196 seconds
+Execution of data insertion takes  0.217 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion takes  40.670 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  60.860 seconds
+ Total of list updated: 0 list/s
+Execution of program execution takes  4.816 seconds
+Execution of data insertion takes  0.165 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  36.886 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  64.868 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.187 seconds
+ Total of list updated: 2 list/s
+Execution of data insertion takes  35.138 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.246 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  34.706 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  59.284 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.262 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  35.440 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  56.271 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.311 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion takes  35.826 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  58.581 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.288 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.286 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  34.221 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  55.229 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.290 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  35.322 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  61.926 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.188 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  37.506 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  62.066 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.397 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  35.916 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  61.519 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.305 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  34.107 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  58.568 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.317 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  36.503 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  60.516 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.200 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  39.145 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  57.243 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.191 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  34.994 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  56.791 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.220 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  31.169 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  53.668 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.280 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  35.598 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  59.557 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.413 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  37.117 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  63.826 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.232 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  31.028 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  54.250 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.177 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  33.076 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  55.144 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.184 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  32.580 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  59.628 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.288 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  32.654 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  54.903 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.230 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  32.799 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  56.334 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.221 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  32.965 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  57.540 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.326 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  33.390 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  55.574 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.272 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  35.596 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  58.928 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.273 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  39.091 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  63.597 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.368 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  37.200 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  66.304 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.275 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  37.997 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  68.731 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.338 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  37.999 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  67.543 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.387 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  39.433 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  57.399 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.303 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  36.381 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  60.980 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.249 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  34.009 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  64.668 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.341 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  39.171 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  62.340 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.299 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  34.356 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  59.380 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.229 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  33.917 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  58.014 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.243 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  36.242 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  59.960 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.271 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  35.100 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  57.761 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.270 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  38.475 seconds
+ Total of list updated: 2 list/s
+Execution of data insertion takes  63.075 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.196 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  38.872 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  60.928 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.281 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  39.674 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  63.534 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.260 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  39.307 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  59.811 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.253 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  39.806 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  61.966 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.289 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  37.784 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  59.805 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.299 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  35.594 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  58.592 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.288 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  38.640 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  57.321 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.185 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  35.856 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  57.258 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.276 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  37.550 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  55.602 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.322 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  37.221 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  62.624 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.335 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion takes  41.428 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  66.546 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.294 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  42.279 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  74.916 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.300 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  45.511 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  68.027 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.249 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  38.008 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  64.754 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.457 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  41.443 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  60.890 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.273 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  39.275 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  58.424 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.296 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  37.070 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  59.122 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.399 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  59.126 seconds
+ Total of list updated: 85 list/s
+Execution of data insertion takes  84.396 seconds
+ Total of list updated: 110 list/s
+Execution of data insertion takes  0.327 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  39.704 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  63.278 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  96.774 seconds
+ Total of list updated: 118 list/s
+Execution of data insertion takes  155.972 seconds
+ Total of list updated: 172 list/s
+Execution of data insertion takes  117.731 seconds
+ Total of list updated: 137 list/s
+Execution of data insertion takes  88.887 seconds
+ Total of list updated: 108 list/s
+Execution of data insertion takes  306.238 seconds
+ Total of list updated: 301 list/s
+Execution of data insertion takes  57.478 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  85.040 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion takes  0.247 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  37.991 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  58.872 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  89.601 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  155.407 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  115.426 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion takes  84.905 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  293.126 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion takes  59.446 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  85.705 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.246 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  36.810 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion takes  61.074 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  97.577 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  158.704 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  119.660 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  90.182 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  288.623 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  58.343 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  94.284 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.346 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  40.408 seconds
+ Total of list updated: 2 list/s
+Execution of data insertion takes  58.403 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  96.315 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  152.131 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  120.594 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  84.324 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion takes  281.959 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  59.848 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  85.058 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.398 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion takes  42.403 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  63.560 seconds
+ Total of list updated: 2 list/s
+Execution of data insertion takes  105.389 seconds
+ Total of list updated: 5 list/s
+Execution of data insertion takes  171.288 seconds
+ Total of list updated: 5 list/s
+Execution of data insertion takes  61.254 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  64.732 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  97.334 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.363 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  45.714 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  66.560 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.417 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.310 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  0.401 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  79.590 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion takes  112.880 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion takes  115.728 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  146.943 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  157.089 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion takes  178.943 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion takes  216.474 seconds
+ Total of list updated: 2 list/s
+Execution of data insertion takes  240.691 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion in ICTO takes  0.405 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.395 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in CED takes  78.202 seconds
+ Total of list updated: 2 list/s
+Execution of data insertion in ICTO takes  0.621 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in CED takes  80.829 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ADMIN BUILDING 1 takes  104.719 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in CCJ takes  113.236 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ADMIN BUILDING 2 takes  155.792 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in CAS takes  165.833 seconds
+ Total of list updated: 9 list/s
+Execution of data insertion in CEIT takes  178.495 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in IH1 takes  217.065 seconds
+ Total of list updated: 2 list/s
+Execution of data insertion in LIBRARY takes  247.103 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.855 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.999 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion in ICTO takes  0.907 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.793 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.679 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.797 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.699 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.674 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.830 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.823 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.767 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.831 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.850 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.087 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.798 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.912 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.832 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.710 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.678 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.764 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.860 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.807 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.893 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.873 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.857 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.717 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.863 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.839 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.771 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.837 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.664 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.668 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.728 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.805 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.988 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.957 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.051 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.759 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.766 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.695 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.700 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.822 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.819 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.831 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.847 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.976 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.744 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.832 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.838 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.740 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.737 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.861 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.763 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.616 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.747 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.747 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.632 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.692 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.669 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.782 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.836 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.809 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.697 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.667 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.761 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.703 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.742 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.616 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.863 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.194 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.302 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.251 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.125 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.493 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.186 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.195 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.908 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.088 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.815 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.722 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.908 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.870 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.995 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.013 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.028 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.866 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.830 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.716 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.695 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.998 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.215 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.803 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.796 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.835 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.731 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.613 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.743 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.832 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.851 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.751 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.810 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.031 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.198 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.217 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.898 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.954 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.989 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.990 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.036 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.077 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.713 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.621 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.954 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.775 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.884 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.865 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.907 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.167 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.349 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.388 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.758 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.100 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.840 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.417 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.915 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.807 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.750 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.852 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.870 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.866 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.825 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.716 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.937 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.133 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.598 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.727 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.804 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.653 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.585 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.089 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.860 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.117 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.947 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.855 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.769 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.972 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.132 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.079 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.026 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.865 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.069 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.075 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.078 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.958 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.788 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.393 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.496 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.367 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.754 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.756 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.911 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.952 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.868 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.849 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.876 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.852 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.708 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.904 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.919 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.804 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.797 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.925 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.852 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.967 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.918 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.046 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.905 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.053 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.056 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.528 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.747 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.932 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.963 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.868 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.778 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.821 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.772 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.216 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.895 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.068 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.076 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.091 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.019 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.791 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.085 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.755 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.785 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.822 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.960 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.956 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.102 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.114 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.145 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.069 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.032 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.788 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.850 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.901 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.000 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.946 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.890 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.980 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.916 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.372 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.754 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.000 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.129 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.017 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.147 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.910 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.925 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.038 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.988 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.199 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.850 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.815 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.780 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.274 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.964 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.955 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.016 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.915 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.703 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.703 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.634 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.778 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.955 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.994 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.138 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.180 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.167 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.124 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.839 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.831 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.645 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.750 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.777 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.897 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.956 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.050 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.754 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.975 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.280 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.684 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.562 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.458 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.636 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.227 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.594 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.397 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.574 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.248 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  4.435 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.879 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.955 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.179 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  3.777 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  4.164 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  3.145 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  3.235 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  3.359 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  3.382 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  3.202 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  4.121 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.693 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  3.179 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  4.792 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.584 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.541 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  4.098 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  4.441 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  3.265 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  6.228 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  4.654 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  5.141 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  3.840 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  4.819 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  5.025 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  4.213 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  5.940 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.114 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  3.176 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.931 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.950 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.247 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  3.252 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  4.745 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.489 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  4.346 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  4.026 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  3.641 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  4.175 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  4.007 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.031 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.033 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.076 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.666 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  4.743 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  5.903 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.135 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.306 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.369 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.238 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.580 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.641 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.668 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.671 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.025 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.975 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  1.983 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.361 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.183 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.035 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.882 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.748 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.908 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.873 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  3.140 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  3.032 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.908 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  4.076 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  3.394 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.386 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.336 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  2.644 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  3.734 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.345 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in CED takes  81.883 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ADMIN BUILDING 1 takes  114.063 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion in CCJ takes  117.092 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ADMIN BUILDING 2 takes  150.471 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in CAS takes  174.761 seconds
+ Total of list updated: 5 list/s
+Execution of data insertion in CEIT takes  176.441 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in IH1 takes  210.518 seconds
+ Total of list updated: 2 list/s
+Execution of data insertion in LIBRARY takes  231.363 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in IH2 takes  363.535 seconds
+ Total of list updated: 5 list/s
+Execution of data insertion in ICTO takes  0.424 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion in CED takes  82.375 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion in ADMIN BUILDING 1 takes  113.037 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in CCJ takes  115.249 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ADMIN BUILDING 2 takes  147.372 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in CAS takes  169.072 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion in CEIT takes  174.654 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in IH1 takes  208.779 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion in LIBRARY takes  230.379 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in IH2 takes  353.581 seconds
+ Total of list updated: 1 list/s
+Execution of data insertion in ICTO takes  0.463 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in CED takes  83.679 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ADMIN BUILDING 1 takes  114.193 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in CCJ takes  116.447 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ADMIN BUILDING 2 takes  151.182 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in CAS takes  171.041 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in CEIT takes  174.394 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in IH1 takes  213.937 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in LIBRARY takes  232.508 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in IH2 takes  359.370 seconds
+ Total of list updated: 0 list/s
+Execution of data insertion in ICTO takes  0.578 seconds
+ Total of list updated: 0 list/s
+=======
+[2024-08-29 15:25:38.999084] Execution of data insertion in ICTO takes  0.990 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 15:40:06.451364] Execution of data insertion in ICTO takes  1.929 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 15:42:23.190236] Execution of data insertion in ICTO takes  3.740 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 15:55:31.414363] Execution of data insertion in ICTO takes  3.229 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 15:58:10.280813] Execution of data insertion in ICTO takes  0.603 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 15:58:10.280813] Execution of data insertion in CED takes  242.588 seconds. Total of list updated: 16 list/s
+
+[2024-08-29 15:58:10.280813] Execution of data insertion in ICTO takes  0.590 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:04:22.672478] Execution of data insertion in ICTO takes  0.623 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:04:22.672478] Execution of data insertion in CED takes  12.860 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:04:22.672478] Execution of data insertion in ICTO takes  0.811 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ICTO takes  2.524 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CED takes  75.984 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ADMIN BUILDING 2 takes  80.378 seconds. Total of list updated: 25 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ADMIN BUILDING 1 takes  81.616 seconds. Total of list updated: 23 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CAS takes  85.889 seconds. Total of list updated: 29 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CCJ takes  103.380 seconds. Total of list updated: 55 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CEIT takes  114.050 seconds. Total of list updated: 77 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in IH1 takes  126.371 seconds. Total of list updated: 108 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in LIBRARY takes  133.636 seconds. Total of list updated: 124 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in IH2 takes  99.059 seconds. Total of list updated: 308 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ICTO takes  1.571 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CED takes  72.510 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ADMIN BUILDING 1 takes  80.968 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ADMIN BUILDING 2 takes  85.399 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CAS takes  85.731 seconds. Total of list updated: 2 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CCJ takes  101.510 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CEIT takes  114.198 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in IH1 takes  127.797 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in LIBRARY takes  129.144 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in IH2 takes  90.485 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ICTO takes  1.714 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CED takes  68.934 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ADMIN BUILDING 2 takes  70.819 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ADMIN BUILDING 1 takes  69.715 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CAS takes  73.544 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CCJ takes  88.318 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CEIT takes  96.723 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in IH1 takes  110.020 seconds. Total of list updated: 3 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in LIBRARY takes  114.265 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in IH2 takes  78.732 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ICTO takes  1.460 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CED takes  80.209 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ADMIN BUILDING 2 takes  89.390 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ADMIN BUILDING 1 takes  93.096 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CAS takes  93.904 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CCJ takes  115.572 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in CEIT takes  127.163 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in IH1 takes  145.008 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in LIBRARY takes  146.230 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in IH2 takes  99.829 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:05:41.136051] Execution of data insertion in ICTO takes  2.257 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:48:43.568733] Execution of data insertion in ICTO takes  3.716 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:48:43.568733] Execution of data insertion in CED takes  68.231 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 16:48:43.568733] Execution of data insertion in ADMIN BUILDING 1 takes  69.895 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:48:43.568733] Execution of data insertion in ADMIN BUILDING 2 takes  73.940 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:48:43.568733] Execution of data insertion in CAS takes  79.169 seconds. Total of list updated: 3 list/s
+
+[2024-08-29 16:48:43.568733] Execution of data insertion in CCJ takes  93.482 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 16:48:43.568733] Execution of data insertion in CEIT takes  108.637 seconds. Total of list updated: 2 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ICTO takes  2.447 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ADMIN BUILDING 1 takes  89.714 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CED takes  92.333 seconds. Total of list updated: 2 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ADMIN BUILDING 2 takes  94.927 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CAS takes  104.011 seconds. Total of list updated: 6 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CCJ takes  114.951 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CEIT takes  130.320 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in IH1 takes  145.306 seconds. Total of list updated: 4 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in LIBRARY takes  151.459 seconds. Total of list updated: 9 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in IH2 takes  111.058 seconds. Total of list updated: 3 list/s
+
+[2024-08-29 17:20:45.786939] Execution of data insertion in ICTO takes  4.714 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ICTO takes  3.056 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CED takes  117.135 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ADMIN BUILDING 1 takes  131.997 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ADMIN BUILDING 2 takes  133.148 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CAS takes  150.824 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CCJ takes  164.027 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CEIT takes  196.844 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in IH1 takes  220.606 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in LIBRARY takes  234.760 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 17:22:29.092943] Execution of program execution takes  160.656 seconds
+[2024-08-29 17:17:15.580675] Execution of data insertion in IH2 takes  162.418 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ICTO takes  2.875 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:25:32.457633] Execution of program execution takes  40.992 seconds
+[2024-08-29 17:17:15.580675] Execution of data insertion in CED takes  121.531 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ADMIN BUILDING 1 takes  130.352 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ADMIN BUILDING 2 takes  130.658 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CAS takes  150.930 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CCJ takes  164.769 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CEIT takes  189.722 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in IH1 takes  215.977 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in LIBRARY takes  224.312 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:26:45.118264] Execution of program execution takes  260.646 seconds
+[2024-08-29 17:17:15.580675] Execution of data insertion in IH2 takes  166.090 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ICTO takes  4.314 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:31:09.143582] Execution of program execution takes  142.354 seconds
+[2024-08-29 17:17:15.580675] Execution of data insertion in ADMIN BUILDING 1 takes  136.317 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CED takes  138.150 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ADMIN BUILDING 2 takes  148.003 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:33:34.733824] Execution of program execution takes  45.708 seconds
+[2024-08-29 17:17:15.580675] Execution of data insertion in CAS takes  169.189 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CCJ takes  188.165 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in CEIT takes  222.347 seconds. Total of list updated: 1 list/s
+
+[2024-08-29 17:34:25.077456] Execution of program execution takes  53.272 seconds
+[2024-08-29 17:17:15.580675] Execution of data insertion in IH1 takes  243.905 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in LIBRARY takes  254.104 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:35:29.080080] Execution of program execution takes  83.720 seconds
+[2024-08-29 17:17:15.580675] Execution of data insertion in IH2 takes  175.521 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:17:15.580675] Execution of data insertion in ICTO takes  2.861 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 17:38:44.530230] Execution of program execution takes  55.492 seconds
+[2024-08-29 17:39:43.515575] Execution of program execution takes  10.117 seconds
+[2024-08-29 17:40:19.358407] Execution of program execution takes  105.131 seconds
+[2024-08-29 17:44:07.373460] Execution of program execution takes  74.294 seconds
+[2024-08-29 17:45:24.024491] Execution of program execution takes  33.706 seconds
+[2024-08-29 17:46:00.114487] Execution of program execution takes  232.726 seconds
+[2024-08-29 17:52:39.728779] Execution of program execution takes  81.933 seconds
+[2024-08-29 17:54:18.566633] Execution of program execution takes  2.861 seconds
+[2024-08-29 22:40:15.536311] Execution of data insertion in ADMIN BUILDING 2 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in ADMIN BUILDING 1 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in ICTO takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in CED takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in CCJ takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in CEIT takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in IH1 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in LIBRARY takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in CAS takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of data insertion in IH2 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:40:15.536311] Execution of program execution takes  209.160 seconds
+[2024-08-29 22:44:55.140512] Execution of data insertion in ADMIN BUILDING 1 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CED takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in ICTO takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in ADMIN BUILDING 2 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CCJ takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in LIBRARY takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in IH1 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CEIT takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in IH2 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CAS takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in ADMIN BUILDING 2 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in ADMIN BUILDING 1 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in ICTO takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CCJ takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CEIT takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in IH1 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in LIBRARY takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CED takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CAS takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in IH2 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in ADMIN BUILDING 1 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in ADMIN BUILDING 2 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in ICTO takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CEIT takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CCJ takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in IH1 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in LIBRARY takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CED takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in CAS takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-08-29 22:44:55.140512] Execution of data insertion in IH2 takes  0.000 seconds. Total of list updated: 0 list/s
+
+[2024-09-16 14:42:40.758935] Execution of data insertion in ICTO takes  0.856 seconds. Total of list updated: 0 list/s
+
+[2024-09-16 14:42:40.758935] Execution of data insertion in ICTO takes  0.809 seconds. Total of list updated: 0 list/s
+
+[2024-09-16 14:42:40.758935] Execution of data insertion in ICTO takes  0.807 seconds. Total of list updated: 0 list/s
+
+[2024-09-16 14:42:40.758935] Execution of data insertion in ICTO takes  0.987 seconds. Total of list updated: 0 list/s
+
+[2024-09-16 14:42:40.758935] Execution of data insertion in ICTO takes  1.238 seconds. Total of list updated: 0 list/s
+
+[2024-09-16 14:42:40.758935] Execution of data insertion in ICTO takes  0.893 seconds. Total of list updated: 0 list/s
+
+[2024-09-16 14:42:40.758935] Execution of data insertion in ICTO takes  1.240 seconds. Total of list updated: 0 list/s
+
+[2024-09-16 14:42:40.758935] Execution of program execution takes  24.788 seconds
+[2024-09-16 14:43:31.153836] Execution of data insertion in ICTO takes  0.911 seconds. Total of list updated: 0 list/s
+
+[2024-09-16 14:43:31.153836] Execution of program execution takes  47.599 seconds
+[2024-09-16 14:44:32.335683] Execution of data insertion in ICTO takes  0.927 seconds. Total of list updated: 0 list/s
+
+[2024-09-16 14:45:13.475781] Execution of data insertion in ICTO takes  0.946 seconds. Total of list updated: 0 list/s
+
+[2024-09-16 14:45:13.475781] Execution of program execution takes  84.542 seconds
+[2024-09-16 14:46:42.053454] Execution of data insertion in ICTO takes  0.814 seconds. Total of list updated: 0 list/s
+
+[2024-09-16 14:47:21.607124] Execution of data insertion in ICTO takes  0.882 seconds. Total of list updated: 0 list/s
+
+[2024-09-16 14:47:21.607124] Execution of program execution takes  36.548 seconds
+[2024-09-16 14:48:01.328924] Execution of program execution takes  57.990 seconds
+[2024-09-16 14:49:46.962500] Execution of program execution takes  73.000 seconds
+[2024-09-16 14:51:03.207003] Execution of program execution takes  27.942 seconds
+[2024-09-16 14:51:34.234360] Execution of program execution takes  30.379 seconds
+[2024-09-16 14:52:07.700758] Execution of program execution takes  31.948 seconds
+[2024-09-16 14:53:31.897760] Execution of program execution takes  130.104 seconds
+[2024-09-16 14:55:44.981435] Execution of program execution takes  46.919 seconds
+[2024-09-16 14:56:34.112164] Execution of program execution takes  36.030 seconds
+[2024-09-16 14:57:12.667808] Execution of program execution takes  39.827 seconds
+[2024-09-16 14:57:59.018106] Execution of program execution takes  24.297 seconds
+[2024-09-16 14:58:25.994959] Execution of program execution takes  64.917 seconds
+[2024-09-16 14:59:33.204671] Execution of program execution takes  25.324 seconds
+[2024-09-16 15:00:01.403881] Execution of program execution takes  53.570 seconds
+[2024-09-16 15:00:57.551661] Execution of program execution takes  162.821 seconds
+[2024-09-16 15:03:43.255836] Execution of program execution takes  159.388 seconds
+[2024-09-16 15:06:24.421862] Execution of program execution takes  43.121 seconds
+[2024-09-16 15:07:24.123478] Execution of program execution takes  79.315 seconds
+[2024-09-16 15:08:45.993533] Execution of program execution takes  78.320 seconds
+[2024-09-16 15:10:07.149095] Execution of program execution takes  88.237 seconds
+[2024-09-16 15:11:37.712303] Execution of program execution takes  54.639 seconds
+[2024-09-16 15:12:34.690628] Execution of program execution takes  117.291 seconds
+[2024-09-16 15:14:33.939618] Execution of program execution takes  149.536 seconds
+[2024-09-16 15:17:05.662545] Execution of program execution takes  404.228 seconds
+[2024-09-16 15:23:53.224315] Execution of program execution takes  452.317 seconds
+[2024-09-16 15:31:27.981623] Execution of program execution takes  566.429 seconds
+[2024-09-16 15:40:56.965776] Execution of program execution takes  653.069 seconds
+[2024-09-16 15:52:12.464092] Execution of program execution takes  195.810 seconds
+[2024-09-16 16:43:17.755657] Execution of program execution takes  251.154 seconds
+>>>>>>> Stashed changes
